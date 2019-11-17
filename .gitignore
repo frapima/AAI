@@ -1,4 +1,5 @@
-./environment/envAAI
-./material
+environment/envAAI/*
+material/*
 projects/.DS_Store
 .DS_Store
+environment/envAAI/
