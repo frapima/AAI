@@ -1,6 +1,6 @@
 # AAI
 
-##Environment set up
+## Environment set up
 To set up the environment, we will need to install Conda in our system (https://conda.io/en/latest/).
 Once Conda is installed, the next step is to create the environment from the environment.yml file:
 `conda env --file environment.yml`
