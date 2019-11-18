@@ -2,4 +2,6 @@ environment/envAAI/*
 material/*
 projects/.DS_Store
 .DS_Store
+**/.DS_Store
 environment/envAAI/
+**/.ipynb_checkpoints
