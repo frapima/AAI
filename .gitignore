@@ -6,3 +6,4 @@ projects/.DS_Store
 environment/envAAI/
 **/.ipynb_checkpoints
 projects/unit3/.ipynb_checkpoints/KNearestClassification-checkpoint.ipynb
+*.csv
