@@ -7,3 +7,4 @@ environment/envAAI/
 **/.ipynb_checkpoints
 projects/unit3/.ipynb_checkpoints/KNearestClassification-checkpoint.ipynb
 *.csv
+*.zip
