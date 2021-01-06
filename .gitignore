@@ -1,4 +1,4 @@
-environment/envAAI/*
+environment/*
 material/*
 projects/.DS_Store
 .DS_Store
@@ -8,3 +8,5 @@ environment/envAAI/
 projects/unit3/.ipynb_checkpoints/KNearestClassification-checkpoint.ipynb
 *.csv
 *.zip
+*.h5
+**/tb_logs/*
